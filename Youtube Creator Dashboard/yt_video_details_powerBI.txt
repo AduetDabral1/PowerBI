@@ -1,0 +1,37 @@
+let
+    API_KEY = "AIzaSyAK3Yp8X8OsBGbQi2RUSfSDjAwMrHGSQPw",
+    ChannelIDs = {"UCneyi-aYq4VIBYIAQgWmk_w", "UCzwCEE_PchiBULMnAJqhGVg", "UCnC8SAZzQiBGYVSKZ_S3y4Q", "UCOtQWL2z-tFbI-mgy_Rpdgg"},
+    MaxResults = 10,
+    GetVideoDetails = (channel_id as text) =>
+    let
+        URL = "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=" & channel_id & "&order=date&maxResults=" & Number.ToText(MaxResults) & "&key=" & API_KEY,
+        Source = Json.Document(Web.Contents(URL)),
+        Items = Source[items],
+        Videos = List.Transform(Items, each [
+            VideoTitle = _[snippet][title],
+            VideoDescription = _[snippet][description],
+            VideoThumbnail = _[snippet][thumbnails][high][url],
+            VideoID = _[id][videoId]
+        ]),
+        VideoIDs = List.Transform(Videos, each [VideoID]),
+        VideoStats = List.Transform(VideoIDs, each GetVideoStatistics(_)),
+        MergedList = List.Zip({Videos, VideoStats}),
+        Combined = List.Transform(MergedList, each Record.Combine(_))
+    in
+        Combined,
+    
+    GetVideoStatistics = (video_id as text) =>
+    let
+        URL = "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=" & video_id & "&key=" & API_KEY,
+        Source = Json.Document(Web.Contents(URL)),
+        Statistics = Source[items]{0}[statistics],
+        Likes = Number.FromText(Statistics[likeCount]),
+        Comments = Number.FromText(Statistics[commentCount]),
+        Views = Number.FromText(Statistics[viewCount])
+    in
+        [Likes=Likes, Comments=Comments, Views=Views],
+    
+    VideoDetails = List.Combine(List.Transform(ChannelIDs, each GetVideoDetails(_))),
+    Table = Table.FromRecords(VideoDetails)
+in
+    Table
