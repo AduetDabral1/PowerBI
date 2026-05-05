@@ -72,15 +72,16 @@ Keyword Categorization: Automatic grouping of searches into topics like Career, 
 
 ## 📂 Repository Structure
 
-Plaintext
+```text
 Google Trends Dashboard/
 ├── Datasets/                 # Source data files and historical trends
 ├── Screenshots/              # UI/UX visual references
 ├── Google_Trends_Report.pbix # Main Power BI Report file
 └── README.md                 # Project Documentation
-🛡️ License
+```
+## 🛡️ License
 This project is licensed under the MIT License.
 
-☕ Support & Attribution
+## ☕ Support & Attribution
 Developed with a focus on delivering real-time market intelligence using modern BI techniques.
 Data Source: Google Trends (Historical and Real-time data).
