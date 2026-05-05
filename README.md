@@ -24,6 +24,7 @@ A global market research tool for tracking keyword volatility and long-term sear
 A specialized financial tracking tool focusing on stock market trends and sector-wise performance.
 * **Key Features:** Real-time price tracking, volatility index analysis, and sector-wise gainers/losers.
 * **Technical Highlight:** Used Power Query to ingest financial market data and DAX to calculate moving averages and RSI indicators.
+<img width="1280" height="719" alt="Screenshot 2026-05-05 110504" src="https://github.com/user-attachments/assets/6cc2ff34-2c3a-4ed4-96f0-f73ea0d3e637" />
 
 ### 🏅 4. Olympics Paris 2024 Dashboard
 A comprehensive analysis of the Paris 2024 games combined with over a century of historical data.
