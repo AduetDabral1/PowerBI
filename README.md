@@ -10,13 +10,15 @@ Welcome to my Power BI projects repository! This collection serves as a comprehe
 A high-performance tournament tracker integrating live match data with historical player performance.
 * **Key Features:** Live scoreboards, dynamic points tables, and custom tooltips for player-level metrics.
 * **Technical Highlight:** Integrated **Cricbuzz API (RapidAPI)** via M-Code and implemented **Web Scraping** for squad headshots.
-<img width="1275" height="718" alt="IPL Dashboard Home" src="https://github.com/user-attachments/assets/5155f84d-e975-4089-8d76-50d44089389d" />
+<img width="1408" height="792" alt="Screenshot 2026-05-05 103422" src="https://github.com/user-attachments/assets/69de6f19-e827-4bc6-85ff-92663dfdec2f" />
+
 
 ### 📈 2. Google Trends Intelligence Dashboard
 A global market research tool for tracking keyword volatility and long-term search interest.
 * **Key Features:** Global heatmaps, 7-day waterfall performance charts, and industry-specific deep dives (Data, AI, Tech).
 * **Technical Highlight:** Optimized time-series modeling for data spanning from 2004 to 2026.
-<img width="1275" height="718" alt="Google Trends Dashboard" src="https://github.com/user-attachments/assets/9157849e-873b-482f-8732-515784932338" />
+<img width="1394" height="776" alt="Screenshot 2026-04-20 082938" src="https://github.com/user-attachments/assets/7ae3fd1b-4876-4950-96d8-9c2dea2b997f" />
+
 
 ### 💹 3. Market Analysis Dashboard
 A specialized financial tracking tool focusing on stock market trends and sector-wise performance.
