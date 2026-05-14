@@ -6,11 +6,13 @@ Welcome to my Power BI projects repository! This collection serves as a comprehe
 
 ## 🚀 All Projects Overview
 
-### 🏏 1. IPL 2026 Live Analytics Dashboard
+### 🏏 1. <a href="https://app.powerbi.com/view?r=eyJrIjoiNDM3ZDk1NDMtOWY2OS00ZDExLTgxOWYtZTY3ZjI2MjQ3ZTA0IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true&pageName=37c85bd29990ae491913"> IPL 2026 Live Analytics Dashboard</a>
 A high-performance tournament tracker integrating live match data with historical player performance.
 * **Key Features:** Live scoreboards, dynamic points tables, and custom tooltips for player-level metrics.
 * **Technical Highlight:** Integrated **Cricbuzz API (RapidAPI)** via M-Code and implemented **Web Scraping** for squad headshots.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDM3ZDk1NDMtOWY2OS00ZDExLTgxOWYtZTY3ZjI2MjQ3ZTA0IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true&pageName=37c85bd29990ae491913">
 <img width="1408" height="792" alt="Screenshot 2026-05-05 103422" src="https://github.com/user-attachments/assets/69de6f19-e827-4bc6-85ff-92663dfdec2f" />
+</a>
 
 
 ### 📈 2. Google Trends Intelligence Dashboard
