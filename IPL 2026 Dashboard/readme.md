@@ -91,5 +91,6 @@ IPL 2026 Dashboard/
 ├── Datasets/                 # CSVs from web scraping & Excel cleaning
 ├── Scripts/                  # M-code snippets for API calls
 ├── Images/                   # Dashboard screenshots & Captain headshots
+├── Dashboard_Slides.pdf      # Screenshots of all dashboard pages in a PDF
 ├── IPL_2026_Dashboard.pbix   # Main Power BI Report file
 └── README.md                 # Project Documentation
