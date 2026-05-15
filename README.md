@@ -6,7 +6,7 @@ Welcome to my Power BI projects repository! This collection serves as a comprehe
 
 ## 🚀 All Projects Overview
 
-### 🏏 1. <a href="https://app.powerbi.com/view?r=eyJrIjoiNDM3ZDk1NDMtOWY2OS00ZDExLTgxOWYtZTY3ZjI2MjQ3ZTA0IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true&pageName=37c85bd29990ae491913"> IPL 2026 Live Analytics Dashboard</a>
+### 🏏 1. <a href="https://github.com/AduetDabral1/PowerBI/tree/f169a625ae53e38d2cd4139224a1ca34b23cfc40/IPL%202026%20Dashboard"> IPL 2026 Live Analytics Dashboard</a>
 A high-performance tournament tracker integrating live match data with historical player performance.
 * **Key Features:** Live scoreboards, dynamic points tables, and custom tooltips for player-level metrics.
 * **Technical Highlight:** Integrated **Cricbuzz API (RapidAPI)** via M-Code and implemented **Web Scraping** for squad headshots.
@@ -15,11 +15,13 @@ A high-performance tournament tracker integrating live match data with historica
 </a>
 
 
-### 📈 2. Google Trends Intelligence Dashboard
+### 📈 <a href="https://github.com/AduetDabral1/PowerBI/tree/f169a625ae53e38d2cd4139224a1ca34b23cfc40/Google%20Trends%20Dashboard"> 2. Google Trends Intelligence Dashboard</a>
 A global market research tool for tracking keyword volatility and long-term search interest.
 * **Key Features:** Global heatmaps, 7-day waterfall performance charts, and industry-specific deep dives (Data, AI, Tech).
 * **Technical Highlight:** Optimized time-series modeling for data spanning from 2004 to 2026.
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiNDcwNjdjYWYtNzQ3Zi00NGNhLWEwMDQtYWNjMDM2NTVjOGEzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1394" height="776" alt="Screenshot 2026-04-20 082938" src="https://github.com/user-attachments/assets/7ae3fd1b-4876-4950-96d8-9c2dea2b997f" />
+</a>
 
 
 ### 💹 3. Market Analysis Dashboard
