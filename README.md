@@ -40,11 +40,14 @@ A comprehensive analysis of the Paris 2024 games combined with over a century of
 <img width="1306" height="727" alt="Olympics Dashboard" src="https://github.com/user-attachments/assets/81994fca-7c06-4bf1-9a2c-13320237906a" />
 </a>
 
-### 💰 5. Personal Finance Dashboard
+### 💰 <a href="https://github.com/AduetDabral1/PowerBI/tree/94ce6de71db3855ff37761f603802b1d0189af36/Finance%20Dashboard"> 5. Personal Finance Dashboard</a>
 A comprehensive tool for tracking financial health, analyzing spending patterns, and monitoring savings goals.
 * **Key Features:** Monthly expense tracking, savings rate analysis, and income vs. expenditure trends.
 * **Technical Highlight:** Implemented dynamic "Line Selection" measures and Month-over-Month (MoM) growth calculations.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiY2QyN2U0NGQtN2ZmNi00MzBiLTk4MWEtMmI5MDdkYWQwYTU4IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1275" height="718" alt="Finance Dashboard" src="https://github.com/user-attachments/assets/62fbc6df-b16c-4825-b7d4-26618470e772" />
+</a>
+
 
 ### 🎥 6. YouTube Creator Dashboard
 An automated dashboard for content creators to analyze channel performance metrics.
