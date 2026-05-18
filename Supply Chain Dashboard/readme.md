@@ -1,5 +1,8 @@
 # 🚚 Supply Chain Analytics Dashboard (Power BI)
 
+## Project Link
+https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDZhYTEtZWQ3NC00ZGE3LTg2NTQtODVkN2IwMTk1MGUzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true
+
 ## 📌 Overview
 
 This Power BI dashboard delivers a comprehensive, end-to-end view of supply chain operations, enabling data-driven decision-making across procurement, inventory, logistics, and customer fulfillment.
