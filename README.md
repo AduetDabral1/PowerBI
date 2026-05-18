@@ -6,7 +6,7 @@ Welcome to my Power BI projects repository! This collection serves as a comprehe
 
 ## 🚀 All Projects Overview
 
-### 🏏 1. <a href="https://github.com/AduetDabral1/PowerBI/tree/f169a625ae53e38d2cd4139224a1ca34b23cfc40/IPL%202026%20Dashboard"> IPL 2026 Live Analytics Dashboard</a>
+### 🏏 <a href="https://github.com/AduetDabral1/PowerBI/tree/f169a625ae53e38d2cd4139224a1ca34b23cfc40/IPL%202026%20Dashboard"> 1. IPL 2026 Live Analytics Dashboard</a>
 A high-performance tournament tracker integrating live match data with historical player performance.
 * **Key Features:** Live scoreboards, dynamic points tables, and custom tooltips for player-level metrics.
 * **Technical Highlight:** Integrated **Cricbuzz API (RapidAPI)** via M-Code and implemented **Web Scraping** for squad headshots.
@@ -49,29 +49,36 @@ A comprehensive tool for tracking financial health, analyzing spending patterns,
 </a>
 
 
-### 🎥 6. YouTube Creator Dashboard
+### 🎥 <a href="https://github.com/AduetDabral1/PowerBI/tree/8ad86f5506b817268f796c8a62d3899f4d50288b/Youtube%20Creator%20Dashboard"> 6. YouTube Creator Dashboard </a>
 An automated dashboard for content creators to analyze channel performance metrics.
 * **Data Source:** Custom **M-Code** integration with the **YouTube Data API v3**.
 * **Insights:** Real-time tracking of Video Views, Likes, and engagement across multiple channel IDs.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMDVlMmU4YzEtNjMxMy00MWQ5LThhNzItNmFlNjQ1MzU4Nzg3IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1420" height="785" alt="YouTube Dashboard" src="https://github.com/user-attachments/assets/bd09a249-5f4d-4ac2-ac79-d415a143988d" />
+</a>
 
-### 🎵 7. Spotify Top 50 Chart Analysis
+### 🎵 <a href="https://github.com/AduetDabral1/PowerBI/tree/bcedee7b9b6cd592564ab49a262a043355056388/Spotify%20Dashboard"> 7. Spotify Top 50 Chart Analysis </a>
 Visualizing global music trends and artist popularity based on Spotify's top-charting tracks.
 * **Insights:** Artist popularity, song duration distribution, and explicit content analysis.
-* **Visuals:** Integrated album art via image URLs and peak position tracking over time.
+* **Visuals:** Integrated album art via image URLs and peak position tracking over time.\
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYmU1NmFmNjAtYWU1Ni00ZDY3LWE3ZWYtM2ZkMzBjM2NhOTlkIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1380" height="774" alt="Spotify Dashboard" src="https://github.com/user-attachments/assets/e121459c-7917-4f44-a146-24ab5eeb642b" />
+</a>
 
-### 📦 8. Supply Chain Analytics
+### 📦 <a href="https://github.com/AduetDabral1/PowerBI/tree/0592d42673077553e36e305cc98dfea0f5c6a710/Supply%20Chain%20Dashboard"> 8. Supply Chain Analytics </a>
 A business-intelligence approach to logistics and inventory management.
 * **Focus:** Tracking order fulfillment, shipping lead times, and inventory turnover.
 * **Data Modeling:** Implementation of a Star Schema to optimize report performance and cross-filtering.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDZhYTEtZWQ3NC00ZGE3LTg2NTQtODVkN2IwMTk1MGUzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1423" height="800" alt="Supply Chain Dashboard" src="https://github.com/user-attachments/assets/cbc73354-d884-4cc0-8e89-aacf5fedcfc8" />
+</a>
 
-### 🏎️ 9. Honda Sales/Service Dashboard
+### 🏎️ <A href="https://github.com/AduetDabral1/PowerBI/tree/d43a04af180c24a59b676f6423b48af0b897f693/Honda"> 9. Honda Sales/Service Dashboard </a>
 A domain-specific dashboard focused on automotive dealership performance.
 * **Focus:** Sales volume trends, regional performance, and service efficiency metrics.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYWU5NzA1NWYtNGViMC00ZjZlLTg4OTQtOTdkYjkwOTYwNzMyIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1423" height="800" alt="Honda Sales Dashboard" src="https://github.com/user-attachments/assets/e10612bb-7fc4-4115-a7e0-ac1abc8fafdd" />
-
+</a>
 ---
 
 ## 🛠️ Technical Skillset
