@@ -4,6 +4,7 @@ Welcome to my Power BI projects repository! This collection serves as a comprehe
 
 ---
 
+
 ## 🚀 All Projects Overview
 
 ### 🏏 <a href="https://github.com/AduetDabral1/PowerBI/tree/f169a625ae53e38d2cd4139224a1ca34b23cfc40/IPL%202026%20Dashboard"> 1. IPL 2026 Live Analytics Dashboard</a>
@@ -79,7 +80,10 @@ A domain-specific dashboard focused on automotive dealership performance.
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWU5NzA1NWYtNGViMC00ZjZlLTg4OTQtOTdkYjkwOTYwNzMyIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="400" height="200" alt="Honda Sales Dashboard" src="https://github.com/user-attachments/assets/e10612bb-7fc4-4115-a7e0-ac1abc8fafdd" />
 </a>
+
+
 ---
+
 
 ## 🛠️ Technical Skillset
 
