@@ -1,5 +1,10 @@
 # Spotify Analysis Dashboard - PowerBI
 
+# Project Link
+https://app.powerbi.com/view?r=eyJrIjoiYmU1NmFmNjAtYWU1Ni00ZDY3LWE3ZWYtM2ZkMzBjM2NhOTlkIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true
+
+---
+
 # 📌 Overview
 
 This Power BI dashboard provides a comprehensive analytical view of Spotify Top 50 chart data, enabling deep insights into song performance, artist dominance, popularity trends, and content strategy.
