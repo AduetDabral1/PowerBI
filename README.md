@@ -32,11 +32,13 @@ A specialized financial tracking tool focusing on stock market trends and sector
 <img width="1280" height="719" alt="Screenshot 2026-05-05 110504" src="https://github.com/user-attachments/assets/6cc2ff34-2c3a-4ed4-96f0-f73ea0d3e637" />
 </a>
 
-### 🏅 4. Olympics Paris 2024 Dashboard
+### 🏅 <a href="https://github.com/AduetDabral1/PowerBI/tree/8c10ad2a7bf899a1c6b85a85309ad18ef094ce28/Olympics%20Dashboard"> 4. Olympics Paris 2024 Dashboard</a>
 A comprehensive analysis of the Paris 2024 games combined with over a century of historical data.
 * **Key Features:** Real-time medal tallies, gender parity insights, and country-specific performance highlights.
 * **Technical Highlight:** Implementation of a historical performance engine tracking data back to 1896.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDZlY2EwNDgtNDJmZS00YWE5LWI0M2MtYzdhZDNhZDRmMTI2IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">
 <img width="1306" height="727" alt="Olympics Dashboard" src="https://github.com/user-attachments/assets/81994fca-7c06-4bf1-9a2c-13320237906a" />
+</a>
 
 ### 💰 5. Personal Finance Dashboard
 A comprehensive tool for tracking financial health, analyzing spending patterns, and monitoring savings goals.
