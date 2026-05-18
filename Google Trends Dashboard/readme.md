@@ -1,10 +1,9 @@
-# Project Link
+# Google Trends Dashboard 📈
+
+### Project Link
 https://app.powerbi.com/view?r=eyJrIjoiNDcwNjdjYWYtNzQ3Zi00NGNhLWEwMDQtYWNjMDM2NTVjOGEzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true
 
 ---
-
-
-# Google Trends Dashboard 📈
 
 A comprehensive Power BI solution designed to track, visualize, and analyze keyword performance and search interest globally. This dashboard provides actionable insights into rising and top-performing keywords across various industries, specifically focusing on roles like Data Analyst, Software Developer, AI Engineer, and more.
 
