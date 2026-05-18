@@ -1,3 +1,8 @@
+# Project Link
+https://app.powerbi.com/view?r=eyJrIjoiMTNhNDJjYTAtYWVlMy00MzcxLTliMzktM2ZhMWJkYWYwNjdhIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true
+
+---
+
 # Market Analysis Dashboard 💹
 
 A high-fidelity, real-time financial tracking solution built in Power BI. This dashboard provides professional-grade technical analysis for multiple asset classes, featuring a modern dual-mode UI designed for traders and financial analysts.
