@@ -1,10 +1,9 @@
-# Project Link
+# Olympic Paris 2024 Analytics Dashboard 🏅
+
+### Project Link
 https://app.powerbi.com/view?r=eyJrIjoiNDZlY2EwNDgtNDJmZS00YWE5LWI0M2MtYzdhZDNhZDRmMTI2IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true
 
 ---
-
-
-# Olympic Paris 2024 Analytics Dashboard 🏅
 
 An immersive and interactive Power BI dashboard providing a comprehensive analysis of the **Paris 2024 Olympic Games**. This project combines real-time athlete data, historical performance trends, and geographic medal distribution to tell the story of the world's premier sporting event.
 
